@@ -1,5 +1,5 @@
 # ChatGPT "BibleAns" Get Answers Directly From The Bible
-- <b> As of 20230711, the BibleAns 0.0 prompt is working properly with Model GPT-3.5 and Model GPT-4 and Model GPT-4o
+- <b> As of 20230711, the BibleAns Version 0.0 prompt is working properly with Model GPT-3.5 and Model GPT-4 and Model GPT-4o
 ---
 
 - <https://chat.openai.com/>
